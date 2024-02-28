@@ -1,6 +1,6 @@
 # Tofu Controller: An IAC Controller for Flux
 
-[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7761/badge)](https://bestpractices.coreinfrastructure.org/projects/7761)
+[![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/7761/badge)](https://bestpractices.coreinfrastructure.org/projects/7761) test
 
 Tofu Controller (previously known as Weave TF-Controller) is a controller for [Flux](https://fluxcd.io) to reconcile OpenTofu and Terraform resources
 in the GitOps way.
